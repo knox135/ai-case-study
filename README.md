@@ -88,17 +88,17 @@ While it has been a bumpy road, General Motors commitment to all Electric vehicl
 * **What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?**
 
 beyond metrics such as Profits and Sales which is critical to all companies and industries, the Automotive specific metrics are
-    1) Number of Units Manufactured(usually either the last 12 months, or year over year)
-    2) Total Cost to Manufacture (all money spent by a company to produce vehicles, including dealer margin and labor)
-    3) Utilization Rate (how much of the total manufacturing capacity is being utilized)
-    4) Manufacturing Cycle Time (from start to end production line, not counting delivery to dealer or time on lot)
-    5) Yield (the percentage of vehicles produced correctly without line rework required)
-    6) Defective Units/Recall Rates (calculated by taking the total number of vehicles that have been recalled due to a defect in the vehicle produced within a specified time period and dividing by the total number of vehicles produced within the same time period.)
-    7) Inventory Turnover Ratio (how long the company takes to sell a vehicle)
-    8) Safety Incidents per Employee
-    9) Scrap Rate (how much waste material in the production process either through errors, defects, or waste shave off of materials)
-    10) Average Production Downtime (amount of time not used at a factory)
-    11) Customer Satisfaction (collected through surveys)
+    1) Number of Units Manufactured(usually either the last 12 months, or year over year) \
+    2) Total Cost to Manufacture (all money spent by a company to produce vehicles, including dealer margin and labor) \
+    3) Utilization Rate (how much of the total manufacturing capacity is being utilized) \
+    4) Manufacturing Cycle Time (from start to end production line, not counting delivery to dealer or time on lot) \
+    5) Yield (the percentage of vehicles produced correctly without line rework required) \
+    6) Defective Units/Recall Rates (calculated by taking the total number of vehicles that have been recalled due to a defect in the vehicle produced within a specified time period and dividing by the total number of vehicles produced within the same time period.) \
+    7) Inventory Turnover Ratio (how long the company takes to sell a vehicle) \
+    8) Safety Incidents per Employee \
+    9) Scrap Rate (how much waste material in the production process either through errors, defects, or waste shave off of materials) \
+    10) Average Production Downtime (amount of time not used at a factory)  \
+    11) Customer Satisfaction (collected through surveys) \
     
     https://guidingmetrics.com/content/key-automotive-industry-metrics/
 
