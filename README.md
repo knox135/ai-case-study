@@ -1,5 +1,4 @@
-# AI-case-study
-Case study for AI bootcamp (Template)
+# General Motors utilizing AI
 
 
 ## Overview and Origin
@@ -16,9 +15,9 @@ September 16, 1908
 
 William Durant
 
-* **How did the idea for the company (or project) come about?**
+**How did the idea for the company (or project) come about?**
 
-William Durant was a partner in an insurance agency in Flint, Michigan, and decided to move into the vehicle business by purchasing a horse cart company in 1886 which he named the Durant-Dort Carraige Company. He then grew the horse-cart company into the largest manufacturer in the U.S.
+* William Durant was a partner in an insurance agency in Flint, Michigan, and decided to move into the vehicle business by purchasing a horse cart company in 1886 which he named the Durant-Dort Carraige Company. He then grew the horse-cart company into the largest manufacturer in the U.S.
 Initially he was not interested in automobiles, stating "Automobiles were noisy, dangerous contraptions that frightened people and horses."
 After test driving a Buick automobile, he becamse so impressed that he took over management of Buick in 1904. Under his leadership, by 1908, Buick's production had surprassed Ford and Caddilac combined.
 In 1907, due to the various American automotive companies financial struggles, J.P. Morgan attempted to create a merger between Ford, Oldsmobile, and Buick, however Ford walked away. 
@@ -87,7 +86,7 @@ While it has been a bumpy road, General Motors commitment to all Electric vehicl
 
 * **What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?**
 
-beyond metrics such as Profits and Sales which is critical to all companies and industries, the Automotive specific metrics are \
+beyond metrics such as Profits and Sales which is critical to all companies and industries, the Automotive specific metrics are: \
     1) Number of Units Manufactured(usually either the last 12 months, or year over year) \
     2) Total Cost to Manufacture (all money spent by a company to produce vehicles, including dealer margin and labor) \
     3) Utilization Rate (how much of the total manufacturing capacity is being utilized) \
