@@ -87,7 +87,7 @@ While it has been a bumpy road, General Motors commitment to all Electric vehicl
 
 * **What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?**
 
-beyond metrics such as Profits and Sales which is critical to all companies and industries, the Automotive specific metrics are
+beyond metrics such as Profits and Sales which is critical to all companies and industries, the Automotive specific metrics are \
     1) Number of Units Manufactured(usually either the last 12 months, or year over year) \
     2) Total Cost to Manufacture (all money spent by a company to produce vehicles, including dealer margin and labor) \
     3) Utilization Rate (how much of the total manufacturing capacity is being utilized) \
@@ -98,9 +98,9 @@ beyond metrics such as Profits and Sales which is critical to all companies and 
     8) Safety Incidents per Employee \
     9) Scrap Rate (how much waste material in the production process either through errors, defects, or waste shave off of materials) \
     10) Average Production Downtime (amount of time not used at a factory)  \
-    11) Customer Satisfaction (collected through surveys) \
+    11) Customer Satisfaction (collected through surveys) 
     
-    https://guidingmetrics.com/content/key-automotive-industry-metrics/
+https://guidingmetrics.com/content/key-automotive-industry-metrics/
 
 * **How is your company performing relative to competitors in the same field?**
 
