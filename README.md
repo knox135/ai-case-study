@@ -71,8 +71,8 @@ The Electric vehicle market growth has slowed some in 2023 compared to 2022 with
 
 **What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?**
 
-* Beyond metrics such as Profits and Sales which is critical to all companies and industries, the Automotive specific metrics are(GuideMetrics):
-    1) Number of Units Manufactured (usually either the last 12 months, or year over year) /
+* Beyond metrics such as Profits and Sales which is critical to all companies and industries, the Automotive specific metrics are(GuideMetrics): \
+    1) Number of Units Manufactured (usually either the last 12 months, or year over year) \
     2) Total Cost to Manufacture (all money spent by a company to produce vehicles, including dealer margin and labor) \
     3) Utilization Rate (how much of the total manufacturing capacity is being utilized) \
     4) Manufacturing Cycle Time (from start to end production line, not counting delivery to dealer or time on lot) \
