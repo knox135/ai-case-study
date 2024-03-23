@@ -21,11 +21,9 @@
 Initially he was not interested in automobiles, stating "Automobiles were noisy, dangerous contraptions that frightened people and horses."
 After test driving a Buick automobile, he becamse so impressed that he took over management of Buick in 1904. Under his leadership, by 1908, Buick's production had surprassed Ford and Caddilac combined.
 In 1907, due to the various American automotive companies financial struggles, J.P. Morgan attempted to create a merger between Ford, Oldsmobile, and Buick, however Ford walked away. 
-Durant, knowing of Oldsmobile's financial struggles, took a train to Lansing, Michigan, and made an agreement to create a holding company called General Motors, which now one of the top 10 automotive companies in the world (https://www.investopedia.com/articles/company-insights/091516/most-profitable-auto-companies-2016-tm-gm.asp)
+Durant, knowing of Oldsmobile's financial struggles, took a train to Lansing, Michigan, and made an agreement to create a holding company called General Motors, which now one of the top 10 automotive companies in the world (1)
 
-https://www.gm.com/heritage/durant#:~:text=They%20agreed%2C%20and%20General%20Motors,incorporated%20on%20September%2016%2C%201908.
-
-* General Motors is utilizing the power of Artificial Intelligence in several ways, from infrastructure development (creating charging networks with Pilot and EVgo eXtend), to manufacturing processes (using data predictions to determine issues and errors that may arise), 
+* General Motors is utilizing the power of Artificial Intelligence in several ways, from infrastructure development (creating charging networks with Pilot and EVgo eXtend), to manufacturing processes (using data predictions to determine issues and errors that may arise).(2)
 
 **How is the company funded? How much funding have they received?**
 
@@ -41,22 +39,20 @@ https://www.gm.com/heritage/durant#:~:text=They%20agreed%2C%20and%20General%20Mo
 
 * In their factories they are using AI-driven predictive analytics in order to utilize historical performance, as well as real-time data which learns and discerns anomalous patterns indicating potential malfunctions in order to reduce downtime and increase the efficiency of their supply chain.
 
-* As with most automaker's, they are also involved in the race to buiold the first legally authorized driverless cars.
+* As with most automaker's, they are also involved in the race to build the first legally authorized driverless cars.(3)
 
-https://www.imd.org/research-knowledge/strategy/articles/silicon-valley-is-winning-the-race-to-build-the-first-driverless-cars/
+
 
 **Who is the company's intended customer? Is there any information about the market size of this set of customers?**
 
 * Most of these projects are end user Electric vehicle purchasers.  however some are internally focused to increase efficiency and profits.
-The Electric vehicle market growth has slowed some in 2023 compared to 2022 with a 29.8% units increased year over year, compared to the 54.2% increase over 2021, with similarly projected growth this year.  The global market size was valued at 500.48 billion USD in 2023, and is projected to rise to 1.579 trillion USD by 2030, while the current global Automaker market capitalization is 2.179 Trillion USD.  Therefore, if Electric vehicles do actually replace ICE (Internal Combustion Engine) vehicles, there is drastic market capitalization growth opportunities, for whoever is able to properly scale and develop products consumers will buy.
+The Electric vehicle market growth has slowed some in 2023 compared to 2022 with a 29.8% units increased year over year, compared to the 54.2% increase over 2021, with similarly projected growth this year.  The global market size was valued at 500.48 billion USD in 2023, and is projected to rise to 1.579 trillion USD by 2030, while the current global Automaker market capitalization is 2.179 Trillion USD.  Therefore, if Electric vehicles do actually replace ICE (Internal Combustion Engine) vehicles, there is drastic market capitalization growth opportunities, for whoever is able to properly scale and develop products consumers will buy.(4)
 
-https://www.fortunebusinessinsights.com/industry-reports/electric-vehicle-market-101678
+
 
 **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
 
 * Most other legacy automakers attempting to transition their fleets and consumers to electric vehicles appear content to let third party companies and new automakers such as Tesla to create charging network infrastructure. General Motors is utilizing their historical data, vehicle data, and driver history trends which they have collected for over a hundred years, in order to impliment charging stations where their customers require them. In partnering with an established fueling company already, at least a base level of infrastructure (land, parking, electricity) create locations already set up and expected to have vehicles there, reducing the need to completely build out from scratch, the infrastructure required.
-
-**Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
 
 ## Landscape
 
@@ -70,23 +66,23 @@ https://www.fortunebusinessinsights.com/industry-reports/electric-vehicle-market
 
 **What are the other major companies in this field?**
 
-* Volkswagen, Toyota, Stellantis, Mercedes Benz, Ford Motor company are the largest legacy automakers, along with newcomers such as Tesla, and Rivian in the U.S. along with BYD in China who has outpaced Tesla to become the worlds largest producer of pure-electric vehicles. 
+* Volkswagen, Toyota, Stellantis, Mercedes Benz, Ford Motor company are the largest legacy automakers, along with newcomers such as Tesla, and Rivian in the U.S. along with BYD in China who has outpaced Tesla to become the worlds largest producer of pure-electric vehicles. (5)
 
-https://www.semafor.com/article/12/27/2023/chinas-byd-to-overtake-tesla-as-worlds-biggest-electric-vehicle-seller
+
 
 ## Results
 
 **What has been the business impact of this company so far?**
 
->"...I can remember your dramatic announcement that by 2035, GM would be 100 percent electric. (...) You did, Mary (General Motors CEO).  You electrified the entire automobile industry." - President Biden.
+>"...I can remember your dramatic announcement that by 2035, GM would be 100 percent electric. (...) You did, Mary (General Motors CEO).  You electrified the entire automobile industry." - President Biden.(6)
 >
-https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/17/remarks-by-president-biden-on-the-bipartisan-infrastructure-law-2/
+
 
 * While it has been a bumpy road, General Motors commitment to all Electric vehicles by 2035, and still standing by that commitment, was huge for the legacy automakers.  While many are pushing back, and attempting to keep ICE vehicles alive, either non-electric assisted, or through hybridization, the commitment to pure Electric vehicles is putting a focus on the future for the company, and attempt to take a larger market share of the future Vehicle landscape.
 
 **What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?**
 
-* beyond metrics such as Profits and Sales which is critical to all companies and industries, the Automotive specific metrics are: \
+* (7)beyond metrics such as Profits and Sales which is critical to all companies and industries, the Automotive specific metrics are: \
     1) Number of Units Manufactured(usually either the last 12 months, or year over year) \
     2) Total Cost to Manufacture (all money spent by a company to produce vehicles, including dealer margin and labor) \
     3) Utilization Rate (how much of the total manufacturing capacity is being utilized) \
@@ -99,7 +95,6 @@ https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/17/remarks-by-
     10) Average Production Downtime (amount of time not used at a factory)  \
     11) Customer Satisfaction (collected through surveys) 
     
-https://guidingmetrics.com/content/key-automotive-industry-metrics/
 
 **How is your company performing relative to competitors in the same field?**
 
@@ -108,16 +103,21 @@ https://guidingmetrics.com/content/key-automotive-industry-metrics/
 
 **If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**
 
-*
+* General Motors has done a good job of creating excitement in their EV fleet and expansion with vehicles like the Hummer EV.  However, I would suggest making their more economical EV's more competitive to the emerging market of both legacy and newcomers creating highly interesting and competitive vehicles in all areas.  They seem to have the products and mindset needed to properly impliment AI technology, both from a manufacturing standpoint, and from an autonomous/software standpoint.
 
 **Why do you think that offering this product or service would benefit the company?**
 
-*
+* If General Motors actually wants to become full EV by 2035, they have a lot of work to do to make batteries and processes more economical. They also need to update their vehicles, both in transferring their ICE vehicles, and updating their current EV vehicles.  They should continue focus on their "super cruise" AI autonomous driving capabilities, as they are one of the leaders in this area, however government acceptance of this technology is slow going, and could prove detrimental to future profits and a drain on R & D potentially used in other areas.
 
 **What technologies would this additional product or service utilize?**
 
-*
+* This would allow them to take an early share in the changing market, and create a solid foothold and potentially create loyal customers in their EV vehicles before there is too much competition.
 
-**Why are these technologies appropriate for your solution?**
-
-*
+**References**
+- https://www.gm.com/heritage/durant#:~:text=They%20agreed%2C%20and%20General%20Motors,incorporated%20on%20September%2016%2C%201908
+- https://www.investopedia.com/articles/company-insights/091516/most-profitable-auto-companies-2016-tm-gm.asp
+- https://www.imd.org/research-knowledge/strategy/articles/silicon-valley-is-winning-the-race-to-build-the-first-driverless-cars/
+- https://www.fortunebusinessinsights.com/industry-reports/electric-vehicle-market-101678
+- https://www.semafor.com/article/12/27/2023/chinas-byd-to-overtake-tesla-as-worlds-biggest-electric-vehicle-seller
+- https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/17/remarks-by-president-biden-on-the-bipartisan-infrastructure-law-2/
+- https://guidingmetrics.com/content/key-automotive-industry-metrics/
