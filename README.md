@@ -18,7 +18,7 @@
 **How did the idea for the company (or project) come about?**
 
 * William Durant was a partner in an insurance agency in Flint, Michigan, and decided to move into the vehicle business by purchasing a horse cart company in 1886 which he named the Durant-Dort Carraige Company. He then grew the horse-cart company into the largest manufacturer in the U.S.
-Initially he was not interested in automobiles, stating "Automobiles were noisy, dangerous contraptions that frightened people and horses."
+Initially he was not interested in automobiles, stating "Automobiles were noisy, dangerous contraptions that frightened people and horses."(1)
 After test driving a Buick automobile, he becamse so impressed that he took over management of Buick in 1904. Under his leadership, by 1908, Buick's production had surprassed Ford and Caddilac combined.
 In 1907, due to the various American automotive companies financial struggles, J.P. Morgan attempted to create a merger between Ford, Oldsmobile, and Buick, however Ford walked away. 
 Durant, knowing of Oldsmobile's financial struggles, took a train to Lansing, Michigan, and made an agreement to create a holding company called General Motors, which now one of the top 10 automotive companies in the world (1)
@@ -31,8 +31,6 @@ Durant, knowing of Oldsmobile's financial struggles, took a train to Lansing, Mi
 
 ## Business Activities
 
-**What specific problem is the company or project trying to solve?**
-
 * In their partnership with EVgo and Pilot, General Motors is working towards utilizing AI analysis of EV trends in order to determine the optimal locations and distances between charging stations.
 
 * Internally they have created their own proprietary AI algorithm in order to analyze and customize travel trajectories based on driver behavior, topographic data, and vehicular status in order to find the most efficient route with plenty of charging stations to reduce range anxiety of the user.
@@ -40,8 +38,6 @@ Durant, knowing of Oldsmobile's financial struggles, took a train to Lansing, Mi
 * In their factories they are using AI-driven predictive analytics in order to utilize historical performance, as well as real-time data which learns and discerns anomalous patterns indicating potential malfunctions in order to reduce downtime and increase the efficiency of their supply chain.
 
 * As with most automaker's, they are also involved in the race to build the first legally authorized driverless cars.(3)
-
-
 
 **Who is the company's intended customer? Is there any information about the market size of this set of customers?**
 
@@ -82,17 +78,17 @@ The Electric vehicle market growth has slowed some in 2023 compared to 2022 with
 
 **What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?**
 
-* (7)beyond metrics such as Profits and Sales which is critical to all companies and industries, the Automotive specific metrics are: \
-    1) Number of Units Manufactured(usually either the last 12 months, or year over year) \
-    2) Total Cost to Manufacture (all money spent by a company to produce vehicles, including dealer margin and labor) \
-    3) Utilization Rate (how much of the total manufacturing capacity is being utilized) \
-    4) Manufacturing Cycle Time (from start to end production line, not counting delivery to dealer or time on lot) \
-    5) Yield (the percentage of vehicles produced correctly without line rework required) \
-    6) Defective Units/Recall Rates (calculated by taking the total number of vehicles that have been recalled due to a defect in the vehicle produced within a specified time period and dividing by the total number of vehicles produced within the same time period.) \
-    7) Inventory Turnover Ratio (how long the company takes to sell a vehicle) \
-    8) Safety Incidents per Employee \
-    9) Scrap Rate (how much waste material in the production process either through errors, defects, or waste shave off of materials) \
-    10) Average Production Downtime (amount of time not used at a factory)  \
+* (7)beyond metrics such as Profits and Sales which is critical to all companies and industries, the Automotive specific metrics are: 
+    1) Number of Units Manufactured(usually either the last 12 months, or year over year) 
+    2) Total Cost to Manufacture (all money spent by a company to produce vehicles, including dealer margin and labor) 
+    3) Utilization Rate (how much of the total manufacturing capacity is being utilized) 
+    4) Manufacturing Cycle Time (from start to end production line, not counting delivery to dealer or time on lot) 
+    5) Yield (the percentage of vehicles produced correctly without line rework required) 
+    6) Defective Units/Recall Rates (calculated by taking the total number of vehicles that have been recalled due to a defect in the vehicle produced within a specified time period and dividing by the total number of vehicles produced within the same time period.) 
+    7) Inventory Turnover Ratio (how long the company takes to sell a vehicle) 
+    8) Safety Incidents per Employee 
+    9) Scrap Rate (how much waste material in the production process either through errors, defects, or waste shave off of materials) 
+    10) Average Production Downtime (amount of time not used at a factory)  
     11) Customer Satisfaction (collected through surveys) 
     
 
